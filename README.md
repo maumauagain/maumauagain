@@ -5,5 +5,5 @@
 Hello, there! My name is Amauri and I'm in my last semester of software engineering 💻. Below you cand find some interesting infos.
 
 - 🔭 I’m currently working on my final paper (TCC)
-- 🌱 I’m currently learning React Native and NodeJS
+- 🌱 I’m currently learning .Net Core and Angular11 
 - 🚀 I've already worked with C# and the technologies I like the most are C#, ReactJS, ReactNative and NodeJS.
